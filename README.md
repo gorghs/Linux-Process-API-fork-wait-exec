@@ -2,7 +2,7 @@
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
-NAME :  KARTHICK V
+NAME :  KARTHICK v
 REG NO : 212223040086
 
 # AIM:
